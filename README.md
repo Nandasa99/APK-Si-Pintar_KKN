@@ -1,7 +1,7 @@
 Identitas
 	Nama		: NANDA SAHITA
 	NIM		: 231101054
-	Jurusan	: Teknik Informatika
+	Jurusan		: Teknik Informatika
 	Semester	: 4
 	Mata Kuliah	: Rekayasa Perangkat Lunak
 	Tugas		: Ujian Akhir Semester (UAS)
@@ -62,6 +62,6 @@ Kontributor
 
 4.	M. Rifan Fatoni
 
-5.	M. Imam taufiqurohman________________________________________
+5.	M. Imam taufiqurohman
 © 2025 - Tugas UAS Rekayasa Perangkat Lunak.
 
