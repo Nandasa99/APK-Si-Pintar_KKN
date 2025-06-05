@@ -63,5 +63,6 @@ Kontributor
 4.	M. Rifan Fatoni
 
 5.	M. Imam taufiqurohman
-© 2025 - Tugas UAS Rekayasa Perangkat Lunak.
 
+
+© 2025 - Tugas UAS Rekayasa Perangkat Lunak.
